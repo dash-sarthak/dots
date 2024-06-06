@@ -1,0 +1,36 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/GolandProjects/rssagg">
+          <value>
+            <RecentProjectMetaInfo frameTitle="rssagg – handler_readiness.go" projectWorkspaceId="2gPStkANC62ZytgnyNIF33jG3vq">
+              <option name="activationTimestamp" value="1717003214353" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="0" y="33" width="2560" height="1407" extendedState="6" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/thanos/test_suite_oc">
+          <value>
+            <RecentProjectMetaInfo frameTitle="test_suite_oc – main.go" opened="true" projectWorkspaceId="2h9PFGW7KxXekeS94eDw91bjfuL">
+              <option name="activationTimestamp" value="1717003234524" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-241.15989.157" />
+              <option name="buildTimestamp" value="1714453620000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="0" y="0" width="2560" height="1400" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1717003214837" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Dev/thanos/test_suite_oc" />
+  </component>
+</application>

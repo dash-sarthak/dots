@@ -1,0 +1,5 @@
+2024/06/04-12:51:01.083 dc1a Reusing MANIFEST /home/sarthak/.config/via-nativia/Local Storage/leveldb/MANIFEST-000001
+2024/06/04-12:51:01.084 dc1a Recovering log #26
+2024/06/04-12:51:01.085 dc1a Level-0 table #28: started
+2024/06/04-12:51:01.097 dc1a Level-0 table #28: 28706 bytes OK
+2024/06/04-12:51:01.099 dc1a Delete type=0 #26

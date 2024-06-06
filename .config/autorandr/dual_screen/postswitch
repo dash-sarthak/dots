@@ -1,0 +1,4 @@
+#!/bin/bash
+
+feh --bg-fill ~/Pictures/Wallpapers/elementary/Photo\ of\ Valley.jpg --bg-fill 
+notify-send -i display "Display profile" "$AUTORANDR_CURRENT_PROFILE"

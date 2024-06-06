@@ -1,0 +1,16 @@
+{
+    "com.github.dalanicolai.gnome-tracker-extension": {
+        "id": "com.github.dalanicolai.gnome-tracker-extension",
+        "url": "https://github.com/dalanicolai/gnome-tracker-extension",
+        "updated_at": "2024-05-16T09:57:39.138010",
+        "last_commit": "14af633907e2b6932b3b91f040a789ce6a955c7b",
+        "last_commit_time": "2022-01-25T16:08:48"
+    },
+    "com.github.tchar.ulauncher-albert-calculate-anything": {
+        "id": "com.github.tchar.ulauncher-albert-calculate-anything",
+        "url": "https://github.com/tchar/ulauncher-albert-calculate-anything",
+        "updated_at": "2024-05-16T10:07:39.521851",
+        "last_commit": "7e80281d0eeacf10c2cbd652589e5f18c15c48c3",
+        "last_commit_time": "2024-04-05T04:15:41"
+    }
+}
