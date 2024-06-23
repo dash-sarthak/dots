@@ -23,7 +23,7 @@ A few prerequisites prerequisites
 | git          | `sudo dnf install git`                              | `sudo pacman -S git`                                        |
 | stow         | `sudo dnf install stow`                             | `sudo pacman -S stow`                                       |
 | zsh          | `sudo dnf install zsh`                              | `sudo pacman -S zsh`                                        |
-| oh-my-posh   | `curl -s https://ohmyposh.dev/install.sh | bash -s` | `yay -S oh-my-posh` (setup go before installing oh-my-posh) |
+| oh-my-posh   | `curl -s https://ohmyposh.dev/install.sh \| bash -s` | `yay -S oh-my-posh` (setup go before installing oh-my-posh) |
 | neovim       | `sudo dnf install neovim`                           | `sudo pacman -S neovim`                                     |
 | hyprland     | `sudo dnf install hyprland`                         | `sudo pacman -S hyprland`                                   |
 | waybar       | `sudo dnf install waybar`                           | `sudo pacman -S waybar`                                     |
