@@ -18,10 +18,17 @@ This directory contains the dotfiles for my system
 
 A few prerequisites prerequisites
 
-| Program | Fedora                  | Arch                  |
-| ------- | ----------------------- | --------------------- |
-| git     | `sudo dnf install git`  | `sudo pacman -S git`  |
-| stow    | `sudo dnf install stow` | `sudo pacman -S stow` |
+| Program      | Fedora                                              | Arch                                                        |
+| ------------ | --------------------------------------------------- | ----------------------------------------------------------- |
+| git          | `sudo dnf install git`                              | `sudo pacman -S git`                                        |
+| stow         | `sudo dnf install stow`                             | `sudo pacman -S stow`                                       |
+| zsh          | `sudo dnf install zsh`                              | `sudo pacman -S zsh`                                        |
+| oh-my-posh   | `curl -s https://ohmyposh.dev/install.sh | bash -s` | `yay -S oh-my-posh` (setup go before installing oh-my-posh) |
+| neovim       | `sudo dnf install neovim`                           | `sudo pacman -S neovim`                                     |
+| hyprland     | `sudo dnf install hyprland`                         | `sudo pacman -S hyprland`                                   |
+| waybar       | `sudo dnf install waybar`                           | `sudo pacman -S waybar`                                     |
+| rofi-wayland | `sudo dnf install rofi-wayland`                     | `sudo pacman -S rofi-wayland`                               |
+| wlogout      | `sudo dnf install wlogout`                          | `yay -S wlogout`                                            |
 
 ## Installation
 
