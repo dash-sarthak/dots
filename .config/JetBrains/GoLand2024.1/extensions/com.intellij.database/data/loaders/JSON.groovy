@@ -1,4 +1,4 @@
-// IJ: extensions = json displayName = JSON
+// IJ: extensions = json displayName = JSON tableFirstFormat=false
 package extensions.data.loaders
 
 @Grab("com.fasterxml.jackson.core:jackson-core:2.16.1")

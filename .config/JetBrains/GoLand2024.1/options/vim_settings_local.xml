@@ -4,6 +4,7 @@
       <history-search />
       <history-cmd>
         <entry encoding="base64">dw==</entry>
+        <entry encoding="base64">d3E=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -11,135 +12,140 @@
   </component>
   <component name="VimJumpsSettings">
     <project id="$USER_HOME$/GolandProjects/rssagg">
-      <jump line="17" column="29" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="14" column="4" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="22" column="0" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="26" column="29" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="27" column="8" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="90" column="0" filename="$USER_HOME$/GolandProjects/rssagg/main.go" />
-      <jump line="2" column="0" filename="$USER_HOME$/GolandProjects/rssagg/sql/schema/004_feed_follows.sql" />
-      <jump line="73" column="0" filename="$USER_HOME$/GolandProjects/rssagg/main.go" />
-      <jump line="64" column="15" filename="$USER_HOME$/GolandProjects/rssagg/main.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="20" column="13" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="42" column="0" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="40" column="48" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="37" column="14" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="74" column="0" filename="$USER_HOME$/GolandProjects/rssagg/main.go" />
-      <jump line="80" column="23" filename="$USER_HOME$/GolandProjects/rssagg/main.go" />
-      <jump line="77" column="0" filename="$USER_HOME$/GolandProjects/rssagg/main.go" />
-      <jump line="76" column="62" filename="$USER_HOME$/GolandProjects/rssagg/main.go" />
-      <jump line="3" column="11" filename="$USER_HOME$/GolandProjects/rssagg/sql/queries/feed_follows.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/GolandProjects/rssagg/sql/queries/feed_follows.sql" />
-      <jump line="8" column="30" filename="$USER_HOME$/GolandProjects/rssagg/sql/queries/feed_follows.sql" />
-      <jump line="26" column="4" filename="$USER_HOME$/GolandProjects/rssagg/internal/database/feeds.sql.go" />
-      <jump line="53" column="0" filename="$USER_HOME$/GolandProjects/rssagg/internal/database/feeds.sql.go" />
-      <jump line="29" column="13" filename="$USER_HOME$/GolandProjects/rssagg/internal/database/feeds.sql.go" />
-      <jump line="22" column="5" filename="$USER_HOME$/GolandProjects/rssagg/internal/database/db.go" />
-      <jump line="24" column="0" filename="$USER_HOME$/GolandProjects/rssagg/internal/database/db.go" />
-      <jump line="69" column="84" filename="$USER_HOME$/GolandProjects/rssagg/main.go" />
-      <jump line="43" column="49" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="57" column="0" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="58" column="18" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="63" column="0" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="83" column="29" filename="$USER_HOME$/GolandProjects/rssagg/main.go" />
-      <jump line="72" column="32" filename="$USER_HOME$/GolandProjects/rssagg/main.go" />
-      <jump line="71" column="0" filename="$USER_HOME$/GolandProjects/rssagg/main.go" />
-      <jump line="67" column="25" filename="$USER_HOME$/GolandProjects/rssagg/main.go" />
-      <jump line="61" column="4" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="48" column="27" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="12" column="0" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="2" column="7" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="5" column="25" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="19" column="19" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="49" column="4" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="50" column="18" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="53" column="4" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="55" column="36" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="54" column="0" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="32" column="32" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="21" column="13" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" />
-      <jump line="13" column="0" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" />
-      <jump line="10" column="44" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" />
-      <jump line="14" column="9" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" />
-      <jump line="12" column="21" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" />
-      <jump line="20" column="0" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" />
-      <jump line="22" column="0" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" />
-      <jump line="27" column="4" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" />
-      <jump line="21" column="37" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" />
-      <jump line="44" column="0" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" />
-      <jump line="39" column="26" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" />
-      <jump line="50" column="0" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" />
-      <jump line="70" column="42" filename="$USER_HOME$/GolandProjects/rssagg/main.go" />
-      <jump line="28" column="7" filename="$USER_HOME$/GolandProjects/rssagg/main.go" />
-      <jump line="25" column="29" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
-      <jump line="49" column="10" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" />
-      <jump line="24" column="0" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" />
-      <jump line="16" column="19" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/GolandProjects/rssagg/scraper.go" />
-      <jump line="6" column="0" filename="$USER_HOME$/GolandProjects/rssagg/scraper.go" />
-      <jump line="6" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="8" column="0" filename="$USER_HOME$/GolandProjects/rssagg/scraper.go" />
-      <jump line="5" column="24" filename="$USER_HOME$/GolandProjects/rssagg/scraper.go" />
-      <jump line="7" column="0" filename="$USER_HOME$/GolandProjects/rssagg/scraper.go" />
-      <jump line="16" column="30" filename="$USER_HOME$/GolandProjects/rssagg/scraper.go" />
-      <jump line="9" column="14" filename="$USER_HOME$/GolandProjects/rssagg/sql/queries/feeds.sql" />
-      <jump line="0" column="0" filename="c90c4eaa-85de-443f-83c2-24a5aa2a3fe9/tablespace/pg_global.sql" />
-      <jump line="1" column="18" filename="c90c4eaa-85de-443f-83c2-24a5aa2a3fe9/tablespace/pg_default.sql" />
-      <jump line="0" column="0" filename="c90c4eaa-85de-443f-83c2-24a5aa2a3fe9/tablespace/pg_default.sql" />
-      <jump line="1" column="18" filename="c90c4eaa-85de-443f-83c2-24a5aa2a3fe9/tablespace/pg_global.sql" />
-      <jump line="0" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c90c4eaa-85de-443f-83c2-24a5aa2a3fe9/console.sql" />
-      <jump line="0" column="52" filename="$USER_HOME$/GolandProjects/rssagg/Makefile" />
-      <jump line="1" column="12" filename="$USER_HOME$/GolandProjects/rssagg/sql/queries/feeds.sql" />
-      <jump line="6" column="20" filename="$USER_HOME$/GolandProjects/rssagg/sql/queries/feeds.sql" />
-      <jump line="11" column="0" filename="$USER_HOME$/GolandProjects/rssagg/sql/queries/feeds.sql" />
-      <jump line="12" column="31" filename="$USER_HOME$/GolandProjects/rssagg/sql/queries/feeds.sql" />
-      <jump line="7" column="0" filename="$USER_HOME$/GolandProjects/rssagg/sql/queries/feeds.sql" />
-      <jump line="20" column="0" filename="$USER_HOME$/GolandProjects/rssagg/sql/queries/feeds.sql" />
-      <jump line="19" column="12" filename="$USER_HOME$/GolandProjects/rssagg/sql/queries/feeds.sql" />
-      <jump line="13" column="7" filename="$USER_HOME$/GolandProjects/rssagg/sql/queries/feeds.sql" />
-      <jump line="25" column="26" filename="$USER_HOME$/GolandProjects/rssagg/scraper.go" />
-      <jump line="26" column="8" filename="$USER_HOME$/GolandProjects/rssagg/scraper.go" />
-      <jump line="41" column="0" filename="$USER_HOME$/GolandProjects/rssagg/scraper.go" />
-      <jump line="49" column="88" filename="$USER_HOME$/GolandProjects/rssagg/scraper.go" />
-      <jump line="21" column="53" filename="$USER_HOME$/GolandProjects/rssagg/main.go" />
-      <jump line="50" column="4" filename="$USER_HOME$/GolandProjects/rssagg/main.go" />
-      <jump line="57" column="26" filename="$USER_HOME$/GolandProjects/rssagg/main.go" />
-      <jump line="52" column="23" filename="$USER_HOME$/GolandProjects/rssagg/main.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/GolandProjects/rssagg/handler_readiness.go" />
-      <jump line="14" column="0" filename="$USER_HOME$/GolandProjects/rssagg/helpers.go" />
-      <jump line="45" column="7" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed.go" />
-      <jump line="8" column="5" filename="$USER_HOME$/GolandProjects/rssagg/json.go" />
+      <jump line="17" column="29" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="14" column="4" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="22" column="0" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="26" column="29" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="27" column="8" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="90" column="0" filename="$USER_HOME$/GolandProjects/rssagg/main.go" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/GolandProjects/rssagg/sql/schema/004_feed_follows.sql" protocol="file" />
+      <jump line="73" column="0" filename="$USER_HOME$/GolandProjects/rssagg/main.go" protocol="file" />
+      <jump line="64" column="15" filename="$USER_HOME$/GolandProjects/rssagg/main.go" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="20" column="13" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="42" column="0" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="40" column="48" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="37" column="14" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="74" column="0" filename="$USER_HOME$/GolandProjects/rssagg/main.go" protocol="file" />
+      <jump line="80" column="23" filename="$USER_HOME$/GolandProjects/rssagg/main.go" protocol="file" />
+      <jump line="77" column="0" filename="$USER_HOME$/GolandProjects/rssagg/main.go" protocol="file" />
+      <jump line="76" column="62" filename="$USER_HOME$/GolandProjects/rssagg/main.go" protocol="file" />
+      <jump line="3" column="11" filename="$USER_HOME$/GolandProjects/rssagg/sql/queries/feed_follows.sql" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/GolandProjects/rssagg/sql/queries/feed_follows.sql" protocol="file" />
+      <jump line="8" column="30" filename="$USER_HOME$/GolandProjects/rssagg/sql/queries/feed_follows.sql" protocol="file" />
+      <jump line="26" column="4" filename="$USER_HOME$/GolandProjects/rssagg/internal/database/feeds.sql.go" protocol="file" />
+      <jump line="53" column="0" filename="$USER_HOME$/GolandProjects/rssagg/internal/database/feeds.sql.go" protocol="file" />
+      <jump line="29" column="13" filename="$USER_HOME$/GolandProjects/rssagg/internal/database/feeds.sql.go" protocol="file" />
+      <jump line="22" column="5" filename="$USER_HOME$/GolandProjects/rssagg/internal/database/db.go" protocol="file" />
+      <jump line="24" column="0" filename="$USER_HOME$/GolandProjects/rssagg/internal/database/db.go" protocol="file" />
+      <jump line="69" column="84" filename="$USER_HOME$/GolandProjects/rssagg/main.go" protocol="file" />
+      <jump line="43" column="49" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="57" column="0" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="58" column="18" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="63" column="0" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="83" column="29" filename="$USER_HOME$/GolandProjects/rssagg/main.go" protocol="file" />
+      <jump line="72" column="32" filename="$USER_HOME$/GolandProjects/rssagg/main.go" protocol="file" />
+      <jump line="71" column="0" filename="$USER_HOME$/GolandProjects/rssagg/main.go" protocol="file" />
+      <jump line="67" column="25" filename="$USER_HOME$/GolandProjects/rssagg/main.go" protocol="file" />
+      <jump line="61" column="4" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="48" column="27" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="2" column="7" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="5" column="25" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="19" column="19" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="49" column="4" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="50" column="18" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="53" column="4" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="55" column="36" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="54" column="0" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="32" column="32" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="21" column="13" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" protocol="file" />
+      <jump line="10" column="44" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" protocol="file" />
+      <jump line="14" column="9" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" protocol="file" />
+      <jump line="12" column="21" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" protocol="file" />
+      <jump line="20" column="0" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" protocol="file" />
+      <jump line="22" column="0" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" protocol="file" />
+      <jump line="27" column="4" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" protocol="file" />
+      <jump line="21" column="37" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" protocol="file" />
+      <jump line="44" column="0" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" protocol="file" />
+      <jump line="39" column="26" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" protocol="file" />
+      <jump line="50" column="0" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" protocol="file" />
+      <jump line="70" column="42" filename="$USER_HOME$/GolandProjects/rssagg/main.go" protocol="file" />
+      <jump line="28" column="7" filename="$USER_HOME$/GolandProjects/rssagg/main.go" protocol="file" />
+      <jump line="25" column="29" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
+      <jump line="49" column="10" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" protocol="file" />
+      <jump line="24" column="0" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" protocol="file" />
+      <jump line="16" column="19" filename="$USER_HOME$/GolandProjects/rssagg/rss.go" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/GolandProjects/rssagg/scraper.go" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/GolandProjects/rssagg/scraper.go" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/GolandProjects/rssagg/scraper.go" protocol="file" />
+      <jump line="5" column="24" filename="$USER_HOME$/GolandProjects/rssagg/scraper.go" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/GolandProjects/rssagg/scraper.go" protocol="file" />
+      <jump line="16" column="30" filename="$USER_HOME$/GolandProjects/rssagg/scraper.go" protocol="file" />
+      <jump line="9" column="14" filename="$USER_HOME$/GolandProjects/rssagg/sql/queries/feeds.sql" protocol="file" />
+      <jump line="0" column="0" filename="c90c4eaa-85de-443f-83c2-24a5aa2a3fe9/tablespace/pg_global.sql" protocol="file" />
+      <jump line="1" column="18" filename="c90c4eaa-85de-443f-83c2-24a5aa2a3fe9/tablespace/pg_default.sql" protocol="file" />
+      <jump line="0" column="0" filename="c90c4eaa-85de-443f-83c2-24a5aa2a3fe9/tablespace/pg_default.sql" protocol="file" />
+      <jump line="1" column="18" filename="c90c4eaa-85de-443f-83c2-24a5aa2a3fe9/tablespace/pg_global.sql" protocol="file" />
+      <jump line="0" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c90c4eaa-85de-443f-83c2-24a5aa2a3fe9/console.sql" protocol="file" />
+      <jump line="0" column="52" filename="$USER_HOME$/GolandProjects/rssagg/Makefile" protocol="file" />
+      <jump line="1" column="12" filename="$USER_HOME$/GolandProjects/rssagg/sql/queries/feeds.sql" protocol="file" />
+      <jump line="6" column="20" filename="$USER_HOME$/GolandProjects/rssagg/sql/queries/feeds.sql" protocol="file" />
+      <jump line="11" column="0" filename="$USER_HOME$/GolandProjects/rssagg/sql/queries/feeds.sql" protocol="file" />
+      <jump line="12" column="31" filename="$USER_HOME$/GolandProjects/rssagg/sql/queries/feeds.sql" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/GolandProjects/rssagg/sql/queries/feeds.sql" protocol="file" />
+      <jump line="20" column="0" filename="$USER_HOME$/GolandProjects/rssagg/sql/queries/feeds.sql" protocol="file" />
+      <jump line="19" column="12" filename="$USER_HOME$/GolandProjects/rssagg/sql/queries/feeds.sql" protocol="file" />
+      <jump line="13" column="7" filename="$USER_HOME$/GolandProjects/rssagg/sql/queries/feeds.sql" protocol="file" />
+      <jump line="25" column="26" filename="$USER_HOME$/GolandProjects/rssagg/scraper.go" protocol="file" />
+      <jump line="26" column="8" filename="$USER_HOME$/GolandProjects/rssagg/scraper.go" protocol="file" />
+      <jump line="41" column="0" filename="$USER_HOME$/GolandProjects/rssagg/scraper.go" protocol="file" />
+      <jump line="49" column="88" filename="$USER_HOME$/GolandProjects/rssagg/scraper.go" protocol="file" />
+      <jump line="21" column="53" filename="$USER_HOME$/GolandProjects/rssagg/main.go" protocol="file" />
+      <jump line="50" column="4" filename="$USER_HOME$/GolandProjects/rssagg/main.go" protocol="file" />
+      <jump line="57" column="26" filename="$USER_HOME$/GolandProjects/rssagg/main.go" protocol="file" />
+      <jump line="52" column="23" filename="$USER_HOME$/GolandProjects/rssagg/main.go" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/GolandProjects/rssagg/handler_readiness.go" protocol="file" />
+      <jump line="14" column="0" filename="$USER_HOME$/GolandProjects/rssagg/helpers.go" protocol="file" />
+      <jump line="45" column="7" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed.go" protocol="file" />
+      <jump line="8" column="5" filename="$USER_HOME$/GolandProjects/rssagg/json.go" protocol="file" />
     </project>
     <project id="rssagg">
-      <jump line="38" column="4" filename="$USER_HOME$/GolandProjects/rssagg/handler_user.go" />
-      <jump line="1" column="0" filename="$USER_HOME$/GolandProjects/rssagg/middleware_auth.go" />
-      <jump line="31" column="43" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" />
+      <jump line="38" column="4" filename="$USER_HOME$/GolandProjects/rssagg/handler_user.go" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/GolandProjects/rssagg/middleware_auth.go" protocol="file" />
+      <jump line="31" column="43" filename="$USER_HOME$/GolandProjects/rssagg/handler_feed_follows.go" protocol="file" />
     </project>
     <project id="$USER_HOME$/Dev/thanos/test_suite_oc">
-      <jump line="0" column="0" filename="$USER_HOME$/Dev/thanos/test_suite_oc/main.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dev/thanos/test_suite_oc/handler/handlerHealth.go" />
-      <jump line="6" column="0" filename="$USER_HOME$/Dev/thanos/test_suite_oc/handler/handlerHealth.go" />
-      <jump line="2" column="7" filename="$USER_HOME$/Dev/thanos/test_suite_oc/handler/handlerHealth.go" />
-      <jump line="15" column="0" filename="$USER_HOME$/Dev/thanos/test_suite_oc/handler/handlerHealth.go" />
-      <jump line="12" column="6" filename="$USER_HOME$/Dev/thanos/test_suite_oc/handler/handlerHealth.go" />
-      <jump line="4" column="42" filename="$USER_HOME$/Dev/thanos/test_suite_oc/handler/handlerHealth.go" />
-      <jump line="2" column="7" filename="$USER_HOME$/Dev/thanos/test_suite_oc/util/helper.go" />
-      <jump line="0" column="11" filename="$USER_HOME$/Dev/thanos/test_suite_oc/util/helper.go" />
-      <jump line="3" column="13" filename="$USER_HOME$/Dev/thanos/test_suite_oc/handler/handlerHealth.go" />
-      <jump line="11" column="59" filename="$USER_HOME$/Dev/thanos/test_suite_oc/handler/handlerHealth.go" />
-      <jump line="19" column="0" filename="$USER_HOME$/Dev/thanos/test_suite_oc/main.go" />
-      <jump line="32" column="15" filename="$USER_HOME$/Dev/thanos/test_suite_oc/main.go" />
-      <jump line="33" column="5" filename="$USER_HOME$/Dev/thanos/test_suite_oc/main.go" />
-      <jump line="22" column="0" filename="$USER_HOME$/Dev/thanos/test_suite_oc/main.go" />
-      <jump line="17" column="4" filename="$USER_HOME$/Dev/thanos/test_suite_oc/main.go" />
-      <jump line="15" column="0" filename="$USER_HOME$/Dev/thanos/test_suite_oc/main.go" />
-      <jump line="14" column="4" filename="$USER_HOME$/Dev/thanos/test_suite_oc/main.go" />
-      <jump line="18" column="0" filename="$USER_HOME$/Dev/thanos/test_suite_oc/main.go" />
-      <jump line="27" column="0" filename="$USER_HOME$/Dev/thanos/test_suite_oc/main.go" />
-      <jump line="12" column="0" filename="$USER_HOME$/Dev/thanos/test_suite_oc/main.go" />
-      <jump line="28" column="0" filename="$USER_HOME$/Dev/thanos/test_suite_oc/main.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/thanos/test_suite_oc/main.go" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/thanos/test_suite_oc/handler/handlerHealth.go" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/Dev/thanos/test_suite_oc/handler/handlerHealth.go" protocol="file" />
+      <jump line="2" column="7" filename="$USER_HOME$/Dev/thanos/test_suite_oc/handler/handlerHealth.go" protocol="file" />
+      <jump line="15" column="0" filename="$USER_HOME$/Dev/thanos/test_suite_oc/handler/handlerHealth.go" protocol="file" />
+      <jump line="12" column="6" filename="$USER_HOME$/Dev/thanos/test_suite_oc/handler/handlerHealth.go" protocol="file" />
+      <jump line="4" column="42" filename="$USER_HOME$/Dev/thanos/test_suite_oc/handler/handlerHealth.go" protocol="file" />
+      <jump line="2" column="7" filename="$USER_HOME$/Dev/thanos/test_suite_oc/util/helper.go" protocol="file" />
+      <jump line="0" column="11" filename="$USER_HOME$/Dev/thanos/test_suite_oc/util/helper.go" protocol="file" />
+      <jump line="3" column="13" filename="$USER_HOME$/Dev/thanos/test_suite_oc/handler/handlerHealth.go" protocol="file" />
+      <jump line="11" column="59" filename="$USER_HOME$/Dev/thanos/test_suite_oc/handler/handlerHealth.go" protocol="file" />
+      <jump line="19" column="0" filename="$USER_HOME$/Dev/thanos/test_suite_oc/main.go" protocol="file" />
+      <jump line="32" column="15" filename="$USER_HOME$/Dev/thanos/test_suite_oc/main.go" protocol="file" />
+      <jump line="33" column="5" filename="$USER_HOME$/Dev/thanos/test_suite_oc/main.go" protocol="file" />
+      <jump line="22" column="0" filename="$USER_HOME$/Dev/thanos/test_suite_oc/main.go" protocol="file" />
+      <jump line="17" column="4" filename="$USER_HOME$/Dev/thanos/test_suite_oc/main.go" protocol="file" />
+      <jump line="15" column="0" filename="$USER_HOME$/Dev/thanos/test_suite_oc/main.go" protocol="file" />
+      <jump line="14" column="4" filename="$USER_HOME$/Dev/thanos/test_suite_oc/main.go" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/Dev/thanos/test_suite_oc/main.go" protocol="file" />
+      <jump line="27" column="0" filename="$USER_HOME$/Dev/thanos/test_suite_oc/main.go" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/Dev/thanos/test_suite_oc/main.go" protocol="file" />
+      <jump line="28" column="0" filename="$USER_HOME$/Dev/thanos/test_suite_oc/main.go" protocol="file" />
+    </project>
+    <project id="gpr-simplebank-f03228d4">
+      <jump line="0" column="0" filename="$USER_HOME$/Development/gpr-simplebank/db/sqlc/accounts.sql.go" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/Development/gpr-simplebank/db/sqlc/accounts.sql.go" protocol="file" />
+      <jump line="17" column="18" filename="$USER_HOME$/Development/gpr-simplebank/db/sqlc/accounts.sql.go" protocol="file" />
     </project>
   </component>
   <component name="VimMarksSettings">
@@ -150,6 +156,15 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1721575548812">
+        <mark key="&quot;" line="17" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1716821463311">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/thanos/test_suite_oc/handler/handlerHealth.go" timestamp="1717003321147">
         <mark key="[" line="11" column="50" />
@@ -181,6 +196,13 @@
       <file name="$USER_HOME$/GolandProjects/rssagg/handler_feed.go" timestamp="1716823908345">
         <mark key="&quot;" line="45" column="7" />
       </file>
+      <file name="$USER_HOME$/GolandProjects/rssagg/rss.go" timestamp="1717003214629">
+        <mark key="&quot;" line="16" column="19" />
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="16" column="20" />
+        <mark key="^" line="16" column="20" />
+        <mark key="." line="16" column="19" />
+      </file>
       <file name="$USER_HOME$/GolandProjects/rssagg/sql/queries/feeds.sql" timestamp="1716821731233">
         <mark key="&quot;" line="13" column="7" />
         <mark key="[" line="12" column="36" />
@@ -191,8 +213,17 @@
       <file name="$USER_HOME$/GolandProjects/rssagg/handler_readiness.go" timestamp="1717003214624">
         <mark key="&quot;" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1716821463302">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/GolandProjects/rssagg/Makefile" timestamp="1716821522728">
+        <mark key="&quot;" line="0" column="52" />
+      </file>
+      <file name="$USER_HOME$/GolandProjects/rssagg/json.go" timestamp="1717003214620">
+        <mark key="&quot;" line="8" column="5" />
+      </file>
+      <file name="/" timestamp="1721575651976">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="c90c4eaa-85de-443f-83c2-24a5aa2a3fe9/tablespace/pg_global.sql" timestamp="1716821519748">
+        <mark key="&quot;" line="1" column="18" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c90c4eaa-85de-443f-83c2-24a5aa2a3fe9/console.sql" timestamp="1716821520953">
         <mark key="&quot;" line="0" column="0" />
@@ -200,31 +231,6 @@
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/GolandProjects/rssagg/helpers.go" timestamp="1717003214615">
-        <mark key="&quot;" line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1716799571664">
-        <mark key="&quot;" line="6" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1716821463311">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GolandProjects/rssagg/rss.go" timestamp="1717003214629">
-        <mark key="&quot;" line="16" column="19" />
-        <mark key="[" line="16" column="5" />
-        <mark key="]" line="16" column="20" />
-        <mark key="^" line="16" column="20" />
-        <mark key="." line="16" column="19" />
-      </file>
-      <file name="$USER_HOME$/GolandProjects/rssagg/Makefile" timestamp="1716821522728">
-        <mark key="&quot;" line="0" column="52" />
-      </file>
-      <file name="$USER_HOME$/GolandProjects/rssagg/json.go" timestamp="1717003214620">
-        <mark key="&quot;" line="8" column="5" />
-      </file>
-      <file name="c90c4eaa-85de-443f-83c2-24a5aa2a3fe9/tablespace/pg_global.sql" timestamp="1716821519748">
-        <mark key="&quot;" line="1" column="18" />
       </file>
       <file name="$USER_HOME$/Dev/thanos/test_suite_oc/util/helper.go" timestamp="1717003305313">
         <mark key="&quot;" line="0" column="11" />
@@ -240,12 +246,15 @@
         <mark key="." line="49" column="88" />
         <mark key="^" line="49" column="89" />
       </file>
+      <file name="$USER_HOME$/GolandProjects/rssagg/helpers.go" timestamp="1717003214615">
+        <mark key="&quot;" line="14" column="0" />
+      </file>
     </localmarks>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="CHARACTER_WISE">
-        <text encoding="base64">aGFuZGxlckhlYWx0aA==</text>
+        <text encoding="base64">IiAuaWRlYXZpbXJjIGlzIGEgY29uZmlndXJhdGlvbiBmaWxlIGZvciBJZGVhVmltIHBsdWdpbi4gSXQgdXNlcwoiICAgdGhlIHNhbWUgY29tbWFuZHMgYXMgdGhlIG9yaWdpbmFsIC52aW1yYyBjb25maWd1cmF0aW9uLgoiIFlvdSBjYW4gZmluZCBhIGxpc3Qgb2YgY29tbWFuZHMgaGVyZTogaHR0cHM6Ly9qYi5nZy9oMzhxNzUKIiBGaW5kIG1vcmUgZXhhbXBsZXMgaGVyZTogaHR0cHM6Ly9qYi5nZy9zaGFyZS1pZGVhdmltcmMKCgoiIiAtLSBTdWdnZXN0ZWQgb3B0aW9ucyAtLQoiIFNob3cgYSBmZXcgbGluZXMgb2YgY29udGV4dCBhcm91bmQgdGhlIGN1cnNvci4gTm90ZSB0aGF0IHRoaXMgbWFrZXMgdGhlCiIgdGV4dCBzY3JvbGwgaWYgeW91IG1vdXNlLWNsaWNrIG5lYXIgdGhlIHN0YXJ0IG9yIGVuZCBvZiB0aGUgd2luZG93LgpzZXQgc2Nyb2xsb2ZmPTUKCiIgRG8gaW5jcmVtZW50YWwgc2VhcmNoaW5nLgpzZXQgaW5jc2VhcmNoCgoiIERvbid0IHVzZSBFeCBtb2RlLCB1c2UgUSBmb3IgZm9ybWF0dGluZy4KbWFwIFEgZ3EKCiIgLS0tIEVuYWJsZSBJZGVhVmltIHBsdWdpbnMgaHR0cHM6Ly9qYi5nZy9pZGVhdmltLXBsdWdpbnMKCiIgSGlnaGxpZ2h0IGNvcGllZCB0ZXh0ClBsdWcgJ21hY2hha2Fubi92aW0taGlnaGxpZ2h0ZWR5YW5rJwoiIENvbW1lbnRhcnkgcGx1Z2luClBsdWcgJ3Rwb3BlL3ZpbS1jb21tZW50YXJ5JwoKCiIiIC0tIE1hcCBJREUgYWN0aW9ucyB0byBJZGVhVmltIC0tIGh0dHBzOi8vamIuZ2cvYWJ2YTR0CiIiIE1hcCBcciB0byB0aGUgUmVmb3JtYXQgQ29kZSBhY3Rpb24KIm1hcCBcciA8QWN0aW9uPihSZWZvcm1hdENvZGUpCgoiIiBNYXAgPGxlYWRlcj5kIHRvIHN0YXJ0IGRlYnVnCiJtYXAgPGxlYWRlcj5kIDxBY3Rpb24+KERlYnVnKQoKIiIgTWFwIFxiIHRvIHRvZ2dsZSB0aGUgYnJlYWtwb2ludCBvbiB0aGUgY3VycmVudCBsaW5lCiJtYXAgXGIgPEFjdGlvbj4oVG9nZ2xlTGluZUJyZWFrcG9pbnQpCg==</text>
       </register>
       <register name="*" type="CHARACTER_WISE">
         <text encoding="base64">aGFuZGxlckhlYWx0aA==</text>
@@ -259,40 +268,41 @@
       <register name="0" type="CHARACTER_WISE">
         <text encoding="base64">UlNTRmVlZA==</text>
       </register>
-      <register name="1" type="LINE_WISE">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="CHARACTER_WISE">
+        <text encoding="base64">IiAuaWRlYXZpbXJjIGlzIGEgY29uZmlndXJhdGlvbiBmaWxlIGZvciBJZGVhVmltIHBsdWdpbi4gSXQgdXNlcwoiICAgdGhlIHNhbWUgY29tbWFuZHMgYXMgdGhlIG9yaWdpbmFsIC52aW1yYyBjb25maWd1cmF0aW9uLgoiIFlvdSBjYW4gZmluZCBhIGxpc3Qgb2YgY29tbWFuZHMgaGVyZTogaHR0cHM6Ly9qYi5nZy9oMzhxNzUKIiBGaW5kIG1vcmUgZXhhbXBsZXMgaGVyZTogaHR0cHM6Ly9qYi5nZy9zaGFyZS1pZGVhdmltcmMKCgoiIiAtLSBTdWdnZXN0ZWQgb3B0aW9ucyAtLQoiIFNob3cgYSBmZXcgbGluZXMgb2YgY29udGV4dCBhcm91bmQgdGhlIGN1cnNvci4gTm90ZSB0aGF0IHRoaXMgbWFrZXMgdGhlCiIgdGV4dCBzY3JvbGwgaWYgeW91IG1vdXNlLWNsaWNrIG5lYXIgdGhlIHN0YXJ0IG9yIGVuZCBvZiB0aGUgd2luZG93LgpzZXQgc2Nyb2xsb2ZmPTUKCiIgRG8gaW5jcmVtZW50YWwgc2VhcmNoaW5nLgpzZXQgaW5jc2VhcmNoCgoiIERvbid0IHVzZSBFeCBtb2RlLCB1c2UgUSBmb3IgZm9ybWF0dGluZy4KbWFwIFEgZ3EKCiIgLS0tIEVuYWJsZSBJZGVhVmltIHBsdWdpbnMgaHR0cHM6Ly9qYi5nZy9pZGVhdmltLXBsdWdpbnMKCiIgSGlnaGxpZ2h0IGNvcGllZCB0ZXh0ClBsdWcgJ21hY2hha2Fubi92aW0taGlnaGxpZ2h0ZWR5YW5rJwoiIENvbW1lbnRhcnkgcGx1Z2luClBsdWcgJ3Rwb3BlL3ZpbS1jb21tZW50YXJ5JwoKCiIiIC0tIE1hcCBJREUgYWN0aW9ucyB0byBJZGVhVmltIC0tIGh0dHBzOi8vamIuZ2cvYWJ2YTR0CiIiIE1hcCBcciB0byB0aGUgUmVmb3JtYXQgQ29kZSBhY3Rpb24KIm1hcCBcciA8QWN0aW9uPihSZWZvcm1hdENvZGUpCgoiIiBNYXAgPGxlYWRlcj5kIHRvIHN0YXJ0IGRlYnVnCiJtYXAgPGxlYWRlcj5kIDxBY3Rpb24+KERlYnVnKQoKIiIgTWFwIFxiIHRvIHRvZ2dsZSB0aGUgYnJlYWtwb2ludCBvbiB0aGUgY3VycmVudCBsaW5lCiJtYXAgXGIgPEFjdGlvbj4oVG9nZ2xlTGluZUJyZWFrcG9pbnQpCg==</text>
       </register>
       <register name="2" type="LINE_WISE">
-        <text encoding="base64">CXYxIDo9IGh0dHAuTmV3U2VydmVNdXgoKQo=</text>
-      </register>
-      <register name="3" type="LINE_WISE">
-        <text encoding="base64">CXYxLkhhbmRsZSgiL3YxLyIsIGh0dHAuU3RyaXBQcmVmaXgoIi92MSIsIHJvdXRlcikpCg==</text>
-      </register>
-      <register name="4" type="LINE_WISE">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">CXYxIDo9IGh0dHAuTmV3U2VydmVNdXgoKQo=</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">CXYxLkhhbmRsZSgiL3YxLyIsIGh0dHAuU3RyaXBQcmVmaXgoIi92MSIsIHJvdXRlcikpCg==</text>
+      </register>
       <register name="5" type="LINE_WISE">
-        <text encoding="base64">CXJvdXRlci5IYW5kbGUoIi8iLCB2MSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="LINE_WISE">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CXJvdXRlci5IYW5kbGUoIi8iLCB2MSkK</text>
       </register>
       <register name="7" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="LINE_WISE">
-        <text encoding="base64">ICAgIGlmIGVyciAhPSBuaWwgewo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="9" type="LINE_WISE">
-        <text encoding="base64">ICAgIGVyciA6PSBzZXJ2ZXIuTGlzdGVuQW5kU2VydmUoKQo=</text>
+        <text encoding="base64">ICAgIGlmIGVyciAhPSBuaWwgewo=</text>
       </register>
       <register name=":" type="CHARACTER_WISE">
-        <text encoding="base64">dw==</text>
+        <text encoding="base64">d3E=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
+      <last-offset encoding="base64" />
       <last-dir encoding="base64">MQ==</last-dir>
       <show-last encoding="base64">ZmFsc2U=</show-last>
     </search>

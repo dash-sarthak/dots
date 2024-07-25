@@ -6,6 +6,12 @@
     <size key="GridCell.Tab.0.bottom.2160.0.2560.1440@120dpi" width="1734" height="435" />
   </component>
   <component name="WindowManager">
-    <frame x="0" y="0" width="2560" height="1400" extendedState="6" />
+    <frame x="399" y="483" width="1400" height="1000" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="1010" y="335" width="530" height="609" key="FileChooserDialogImpl.ideScale=125" timestamp="1721575209498">
+      <screen x="0" y="32" width="2560" height="1408" />
+    </state>
+    <state x="1010" y="335" width="530" height="609" key="FileChooserDialogImpl.ideScale=125/0.32.2560.1408/2560.0.2160.1440" timestamp="1721575209498" />
   </component>
 </application>

@@ -15,7 +15,7 @@
         </entry>
         <entry key="$USER_HOME$/Dev/thanos/test_suite_oc">
           <value>
-            <RecentProjectMetaInfo frameTitle="test_suite_oc – main.go" opened="true" projectWorkspaceId="2h9PFGW7KxXekeS94eDw91bjfuL">
+            <RecentProjectMetaInfo frameTitle="test_suite_oc – main.go" projectWorkspaceId="2h9PFGW7KxXekeS94eDw91bjfuL">
               <option name="activationTimestamp" value="1717003234524" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="GO-241.15989.157" />
@@ -29,8 +29,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Development/gpr-simplebank">
+          <value>
+            <RecentProjectMetaInfo frameTitle="gpr-simplebank – accounts.sql.go" opened="true" projectWorkspaceId="2jYsBuC0dd7R0QWCLnIqzbwI4cc">
+              <option name="activationTimestamp" value="1721575680038" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-241.18034.61" />
+              <option name="buildTimestamp" value="1718905560000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="399" y="483" width="1400" height="1000" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1721575212785" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Dev/thanos/test_suite_oc" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Development/gpr-simplebank" />
   </component>
 </application>

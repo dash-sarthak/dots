@@ -1,17 +1,5 @@
-2024/06/13-20:29:06.605 2091b Reusing MANIFEST /home/sarthak/.config/via-nativia/Local Storage/leveldb/MANIFEST-000001
-2024/06/13-20:29:06.607 2091b Recovering log #29
-2024/06/13-20:29:06.608 2091b Level-0 table #31: started
-2024/06/13-20:29:06.612 2091b Level-0 table #31: 28725 bytes OK
-2024/06/13-20:29:06.617 2091b Delete type=0 #29
-2024/06/13-20:31:08.564 2091c Level-0 table #34: started
-2024/06/13-20:31:08.574 2091c Level-0 table #34: 28716 bytes OK
-2024/06/13-20:31:08.576 2091c Delete type=0 #32
-2024/06/13-20:31:08.576 2091c Compacting 4@0 + 1@1 files
-2024/06/13-20:31:08.578 2091c Generated table #35@0: 3 keys, 28667 bytes
-2024/06/13-20:31:08.578 2091c Compacted 4@0 + 1@1 files => 28667 bytes
-2024/06/13-20:31:08.580 2091c compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/06/13-20:31:08.580 2091c Delete type=2 #23
-2024/06/13-20:31:08.580 2091c Delete type=2 #25
-2024/06/13-20:31:08.580 2091c Delete type=2 #28
-2024/06/13-20:31:08.580 2091c Delete type=2 #31
-2024/06/13-20:31:08.580 2091c Delete type=2 #34
+2024/07/19-21:54:30.478 24b5e Reusing MANIFEST /home/sarthak/.config/via-nativia/Local Storage/leveldb/MANIFEST-000001
+2024/07/19-21:54:30.482 24b5e Recovering log #22
+2024/07/19-21:54:30.482 24b5e Level-0 table #25: started
+2024/07/19-21:54:30.491 24b5e Level-0 table #25: 28860 bytes OK
+2024/07/19-21:54:30.493 24b5e Delete type=0 #22

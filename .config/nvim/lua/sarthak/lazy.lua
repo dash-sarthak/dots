@@ -54,6 +54,11 @@ local plugins = {
     {'neovim/nvim-lspconfig'},
     {'hrsh7th/cmp-nvim-lsp'},
 
+    -- Formatting
+    {
+      'stevearc/conform.nvim',
+      opts = {},
+    },
     -- Completions
     {'hrsh7th/nvim-cmp'},
 

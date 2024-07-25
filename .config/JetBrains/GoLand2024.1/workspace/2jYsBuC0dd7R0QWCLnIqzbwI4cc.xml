@@ -1,0 +1,143 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="gpr-simplebank" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="13yfedmbs2m76">
+      <file>
+        <entry file="file://$PROJECT_DIR$/db/sqlc/accounts.sql.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="832">
+              <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$USER_HOME$/.ideavimrc" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gpr-simplebank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/sarthak/Development/gpr-simplebank}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gpr-simplebank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/sarthak/Development/gpr-simplebank}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/sarthak/Development/gpr-simplebank/db}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gpr-simplebank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/sarthak/Development/gpr-simplebank}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/sarthak/Development/gpr-simplebank/db}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/sarthak/Development/gpr-simplebank/db/query}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gpr-simplebank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/sarthak/Development/gpr-simplebank}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/sarthak/Development/gpr-simplebank/db}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/sarthak/Development/gpr-simplebank/db/schema}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gpr-simplebank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/sarthak/Development/gpr-simplebank}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/sarthak/Development/gpr-simplebank/db}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/sarthak/Development/gpr-simplebank/db/sqlc}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25035715" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" />
+      <window_info anchor="right" id="Endpoints" order="1" />
+      <window_info anchor="right" id="AIAssistant" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Notifications" order="4" weight="0.25" />
+      <window_info anchor="right" id="make" order="5" side_tool="true" />
+      <unified_weights left="0.25035715" />
+    </layout>
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33035713" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights left="0.33035713" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="644" y="283" width="1271" height="911" key="SettingsEditor.ideScale=125" timestamp="1721575651977">
+      <screen x="0" y="32" width="2560" height="1408" />
+    </state>
+    <state x="644" y="283" width="1271" height="911" key="SettingsEditor.ideScale=125/0.32.2560.1408/2560.0.2160.1440@0.32.2560.1408" timestamp="1721575651977" />
+    <state x="947" y="374" width="655" height="729" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=125" timestamp="1721575537745">
+      <screen x="0" y="32" width="2560" height="1408" />
+    </state>
+    <state x="947" y="374" width="655" height="729" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=125/0.32.2560.1408/2560.0.2160.1440@0.32.2560.1408" timestamp="1721575537745" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.ideavimrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/sqlc/accounts.sql.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,5 +1,7 @@
+debugger.new.tool.window.layout
+false
 ide.experimental.ui
-true
+false
 ide.experimental.ui.inter.font
 false
 idea.plugins.compatible.build

@@ -32,7 +32,7 @@ eval "$(oh-my-posh init zsh --config $HOME/.config/ohmyposh/zen.toml)"
 # Keybindings
 bindkey -e
 bindkey '^k' history-search-backward
-bindkey '^j' history-search-forward
+# bindkey '^j' history-search-forward
 bindkey '^[[2~' overwrite-mode                                  
 bindkey '^[[3~' delete-char                                     
 bindkey '^[[C'  forward-char                                    
@@ -88,6 +88,9 @@ alias l='eza -F --icons --color=always --group-directories-first'
 alias l.='eza -a | egrep "^\."'
 alias fetch='macchina'
 alias bl='bluetuith'
+alias install='yay -S --needed'
+alias update='yay -Syu'
+alias remove='yay -Runs'
 
 # Color man pages
 export LESS_TERMCAP_mb=$'\E[01;32m'
@@ -99,18 +102,22 @@ export LESS_TERMCAP_ue=$'\E[0m'
 export LESS_TERMCAP_us=$'\E[01;36m'
 export LESS=-R
 
-# Path
-export GOROOT=/home/sarthak/go/go1.22.3
+# Environment variables
+export GOROOT=/usr/local/go
+export GOBIN=/home/sarthak/go/bin
+export VIRTUAL_ENV_DISABLE_PROMPT=0
+export PYENV_VIRTUALENV_DISABLE_PROMPT=0
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/sarthak/.config/retroarch/cores/dolphin_libretro.so
 
+# Path
 path=(
     $path
     $GOROOT
     $GOROOT/bin/
+    $GOBIN
     /home/sarthak/scripts
     /home/sarthak/scripts/md2html/
     /home/sarthak/.local/bin
 )
 
 export PATH
-

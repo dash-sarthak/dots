@@ -27,6 +27,9 @@
     <e n="AutoIndentLines">
       <i c="8" l="1716822635075" />
     </e>
+    <e n="CollapseRegion">
+      <i c="3" l="1721575607478" />
+    </e>
     <e n="CommentByLineComment">
       <i c="3" l="1715786581536" />
     </e>
@@ -49,7 +52,7 @@
       <i c="2" l="1716821584304" />
     </e>
     <e n="EditorBackSpace">
-      <i c="973" l="1717003412216" />
+      <i c="976" l="1721575278231" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="2" l="1717003407536" />
@@ -67,7 +70,7 @@
       <i c="282" l="1717003388882" />
     </e>
     <e n="EditorEscape">
-      <i c="504" l="1717003412415" />
+      <i c="517" l="1721575546193" />
     </e>
     <e n="EditorLeft">
       <i c="1" l="1715679333559" />
@@ -115,13 +118,13 @@
       <i c="1" l="1717003204002" />
     </e>
     <e n="PasteMultiple">
-      <i c="4" l="1715622119554" />
+      <i c="5" l="1721575536684" />
     </e>
     <e n="RenameElement">
       <i c="1" l="1715679332531" />
     </e>
     <e n="SaveAll">
-      <i c="39" l="1717003420929" />
+      <i c="41" l="1721575548805" />
     </e>
     <e n="SettingsEntryPoint">
       <i c="1" l="1715598374280" />
@@ -133,7 +136,7 @@
       <i c="4" l="1716821891994" />
     </e>
     <e n="ShowSettings">
-      <i c="24" l="1716820303478" />
+      <i c="30" l="1721575646461" />
     </e>
     <e n="Terminal.NewTab">
       <i c="2" l="1715786952597" />
@@ -152,6 +155,9 @@
     </e>
     <e n="ViewToolButtons">
       <i c="5" l="1716481488447" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1721575198209" />
     </e>
     <e n="com.goide.sdk.download.GoDownloadSdkAction">
       <i c="1" l="1715597973992" />
@@ -190,7 +196,7 @@
       <i c="6" l="1716821663535" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="2" l="1717003201821" />
+      <i c="3" l="1721575217196" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
       <i c="7" l="1716821733147" />
@@ -202,7 +208,7 @@
       <i c="1" l="1715621033326" />
     </e>
     <e n="com.maddyhome.idea.vim.group.NotificationService$OpenIdeaVimRcAction">
-      <i c="2" l="1716799341003" />
+      <i c="3" l="1721575378503" />
     </e>
     <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$1">
       <i c="1" l="1715612532296" />
@@ -211,7 +217,7 @@
       <i c="2" l="1715612479526" />
     </e>
     <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
-      <i c="39" l="1717003420922" />
+      <i c="41" l="1721575548802" />
     </e>
   </component>
 </application>
