@@ -1,1 +1,1 @@
-("~/Development/gpr-simplebank/")
+("~/dots/" "~/Development/gpr-simplebank/")
