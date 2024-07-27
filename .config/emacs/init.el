@@ -5,6 +5,7 @@
 (setq custom-file "~/.config/emacs/custom.el")
 (load custom-file)
 
+
 ;; UI Cleanup
 (setq inhibit-startup-message t)    ; No splash screen
 (scroll-bar-mode -1)                ; Bye bye scrollbar
@@ -20,8 +21,16 @@
                     :background "transparent")
 (global-display-fill-column-indicator-mode 1)
 
+
 ;; Best monospace font
-(set-face-attribute 'default nil :font "JetBrainsMono Nerd Font" :height 120)
+(set-face-attribute 'default nil
+		    :font "JetBrainsMono Nerd Font"
+		    :weight 'regular
+		    :height 132)
+(set-face-attribute 'mode-line nil :weight 'medium :height 120)
+
+;; Theme
+(load-theme 'modus-vivendi t)
 
 ;; Line and column numbers
 (column-number-mode)                ; Show column numbers
@@ -114,20 +123,6 @@
 ;; Run M-x all-the-icons-install-fonts on new machines
 (use-package all-the-icons)
 
-;; Doom-modeline - Fancy status line
-(use-package doom-modeline
-  :ensure t
-  :init (doom-modeline-mode 1)
-  :custom ((doom-modeline-height 30)))
-
-;; Doom-themes - Gorgeous themes
-(use-package doom-themes
-  :init (load-theme 'modus-vivendi t))
-
-;; Rainbow Delimiters - Colorful parentheses
-(use-package rainbow-delimiters
-  :hook (prog-mode . rainbow-delimiters-mode))
-
 ;; General - Easier keybindings
 (use-package general
   :config
@@ -162,9 +157,6 @@
   :config
   (evil-collection-init))
 
-;; Supercharged menus
-(use-package hydra)
-
 ;; Teminal emulation
 (use-package vterm)
 
@@ -192,23 +184,12 @@
 (use-package counsel-projectile
   :config (counsel-projectile-mode))
 
+;; Doom modeline
+(use-package doom-modeline
+  :init (doom-modeline-mode 1))
+
 ;; Magit
-(use-package magit
-  :custom
-  (magit-display-buffer-function
-   #'magit-display-buffer-same-window-except-diff-v1))
-
-;; Evil-magit
-(use-package evil-magit
-  :after magit)
-
-
-;; Hydra menus
-(defhydra hydra-text-scale (:timeout 4)
-  "scale text"
-  ("J" text-scale-increase "in")
-  ("k" text-scale-decrease "out")
-  ("f" nil "finished" :exit t))
+(use-package magit)
 
 
 ;; Keybindings
@@ -221,4 +202,5 @@
   "tt" '(counsel-load-theme :which-key "choose theme")
   "ts" '(hydra-text-scale/body :which-key "scale text")
   "RET" '(vterm-toggle :which-key "terminal"))
+
 
