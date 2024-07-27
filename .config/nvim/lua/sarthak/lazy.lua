@@ -27,7 +27,8 @@ local plugins = {
 
     -- Telescope: Jumping around files
     {
-        'nvim-telescope/telescope.nvim', tag = '0.1.3',
+        'nvim-telescope/telescope.nvim',
+        tag = '0.1.3',
         dependencies = { 'nvim-lua/plenary.nvim' }
     },
 
@@ -40,34 +41,39 @@ local plugins = {
     },
 
     -- Nvim tree: A file tree for nvim
-    {'nvim-tree/nvim-tree.lua'},
+    { 'nvim-tree/nvim-tree.lua' },
 
     -- Icons
-    {'nvim-tree/nvim-web-devicons'},
+    { 'nvim-tree/nvim-web-devicons' },
 
     -- Install language servers from inside neovim
-    {'williamboman/mason.nvim'},
-    {'williamboman/mason-lspconfig.nvim'},
+    { 'williamboman/mason.nvim' },
+    { 'williamboman/mason-lspconfig.nvim' },
 
     -- LSP
-    {'VonHeikemen/lsp-zero.nvim', branch = 'v3.x'},
-    {'neovim/nvim-lspconfig'},
-    {'hrsh7th/cmp-nvim-lsp'},
+    { 'VonHeikemen/lsp-zero.nvim',        branch = 'v3.x' },
+    { 'neovim/nvim-lspconfig' },
+    { 'hrsh7th/cmp-nvim-lsp' },
 
     -- Formatting
     {
-      'stevearc/conform.nvim',
-      opts = {},
+        'stevearc/conform.nvim',
+        opts = {},
     },
     -- Completions
-    {'hrsh7th/nvim-cmp'},
+    { 'hrsh7th/nvim-cmp' },
 
     -- Snippets
-    {'L3MON4D3/LuaSnip'},
-    {'saadparwaiz1/cmp_luasnip'},
+    { 'L3MON4D3/LuaSnip' },
+    { 'saadparwaiz1/cmp_luasnip' },
+
+    -- Comments
+    {
+        'numToStr/Comment.nvim'
+    },
 
     -- ToggleTerm: Terminal inside vim
-    {'akinsho/toggleterm.nvim', version = "*", config = true},
+    { 'akinsho/toggleterm.nvim',      version = "*", config = true },
 
     -- Autopairs: Autocomplete for brackets
     {
@@ -77,13 +83,13 @@ local plugins = {
     },
 
     -- Surround
-    {'kylechui/nvim-surround'},
+    { 'kylechui/nvim-surround' },
 
     -- Table-mode: Better tables in vim
-    {'dhruvasagar/vim-table-mode'},
+    { 'dhruvasagar/vim-table-mode' },
 
     -- Follow MD Links: Jump around in markdown
-    {'jghauser/follow-md-links.nvim'},
+    { 'jghauser/follow-md-links.nvim' },
 
     -- Lualine
     {
@@ -100,7 +106,7 @@ local plugins = {
         opts = {},
     },
     -- Gruvbox: Earth, green
-    { "ellisonleao/gruvbox.nvim", priority = 1000 , config = true, opts = ...},
+    { "ellisonleao/gruvbox.nvim",     priority = 1000, config = true, opts = ... },
 
     -- Kanagawa: A dark theme inspiired by Japanese aesthetics
     {
@@ -109,8 +115,14 @@ local plugins = {
     -- oxocarbon: dark, cool
     {
         "nyoom-engineering/oxocarbon.nvim"
-    }
+    },
+    { "miikanissi/modus-themes.nvim", priority = 1000 },
+    {
+        "neanias/everforest-nvim",
+        version = false,
+        lazy = false,
+        priority = 1000,
+    },
 }
 
 require("lazy").setup(plugins, opts)
-
