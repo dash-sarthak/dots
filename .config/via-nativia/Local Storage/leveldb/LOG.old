@@ -1,3 +1,5 @@
-2024/07/16-12:59:06.583 365c Reusing MANIFEST /home/sarthak/.config/via-nativia/Local Storage/leveldb/MANIFEST-000001
-2024/07/16-12:59:06.587 365c Recovering log #22
-2024/07/16-12:59:06.587 365c Reusing old log /home/sarthak/.config/via-nativia/Local Storage/leveldb/000022.log 
+2024/08/06-22:42:23.713 1de79 Reusing MANIFEST /home/sarthak/.config/via-nativia/Local Storage/leveldb/MANIFEST-000001
+2024/08/06-22:42:23.716 1de79 Recovering log #29
+2024/08/06-22:42:23.717 1de79 Level-0 table #31: started
+2024/08/06-22:42:23.723 1de79 Level-0 table #31: 28918 bytes OK
+2024/08/06-22:42:23.725 1de79 Delete type=0 #29

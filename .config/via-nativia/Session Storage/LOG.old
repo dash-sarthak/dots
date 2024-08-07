@@ -1,3 +1,6 @@
-2024/07/16-12:59:08.228 365c Reusing MANIFEST /home/sarthak/.config/via-nativia/Session Storage/MANIFEST-000001
-2024/07/16-12:59:08.229 365c Recovering log #4
-2024/07/16-12:59:08.229 365c Reusing old log /home/sarthak/.config/via-nativia/Session Storage/000004.log 
+2024/08/06-22:42:25.663 1de79 Reusing MANIFEST /home/sarthak/.config/via-nativia/Session Storage/MANIFEST-000001
+2024/08/06-22:42:25.663 1de79 Recovering log #4
+2024/08/06-22:42:25.671 1de79 Reusing old log /home/sarthak/.config/via-nativia/Session Storage/000004.log 
+2024/08/06-22:42:30.191 1de8a Level-0 table #7: started
+2024/08/06-22:42:30.193 1de8a Level-0 table #7: 15303 bytes OK
+2024/08/06-22:42:30.197 1de8a Delete type=0 #4
