@@ -108,16 +108,22 @@ export GOBIN=/home/sarthak/go/bin
 export VIRTUAL_ENV_DISABLE_PROMPT=0
 export PYENV_VIRTUALENV_DISABLE_PROMPT=0
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/sarthak/.config/retroarch/cores/dolphin_libretro.so
+export PYENV_ROOT="$HOME/.pyenv"
 
 # Path
 path=(
+    $PYENV_ROOT/bin/
     $path
     $GOROOT
     $GOROOT/bin/
     $GOBIN
+    /home/sarthak/.config/emacs/doom/bin
     /home/sarthak/scripts
     /home/sarthak/scripts/md2html/
     /home/sarthak/.local/bin
 )
 
 export PATH
+
+# Pyenv
+eval "$(pyenv init -)"
