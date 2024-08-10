@@ -14,5 +14,8 @@ vim.opt.termguicolors = true
 vim.opt.scrolloff = 8
 vim.opt.updatetime = 50
 vim.g.mapleader = " "
-vim.opt.clipboard:append { 'unnamed', 'unnamedplus' }
+vim.opt.clipboard:append({ "unnamed", "unnamedplus" })
 vim.opt.pumheight = 8
+vim.opt.conceallevel = 2
+vim.opt.concealcursor = "nc"
+-- vim: ts=2 sts=2 sw=2 et
