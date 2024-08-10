@@ -90,6 +90,7 @@ Searches in `evil-digraphs-table-user' and `evil-digraphs-table'.
 ;;; Generated autoloads from evil-vars.el
 
 (register-definition-prefixes "evil-vars" '("evil-"))
+
 
 ;;; End of scraped data
 
